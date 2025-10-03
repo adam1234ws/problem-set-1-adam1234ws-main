@@ -1,0 +1,7 @@
+Write a program that prints a solid square.
+
+Input:
+A single integer N: the edge length in characters.
+
+Output:
+Print an N by N square one row per line, use * character.

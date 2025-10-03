@@ -1,0 +1,6 @@
+Write a program that takes in 3 integers from the user and prints the largest one.
+
+input:
+Collect 3 integers from stdin. 
+output:
+Print the largest of the 3.

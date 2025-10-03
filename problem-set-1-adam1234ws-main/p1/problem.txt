@@ -1,0 +1,8 @@
+Write a program that takes in the width and height of a rectangle and prints out its area.
+
+input:
+Collect user input from stdin. 
+The first value is the width and the second value is the height.
+output:
+Print the area of the rectangle rounded to 2 decimal places. 
+Always display exactly 2 digits after the decimal point, even if they are zeros.

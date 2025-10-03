@@ -1,0 +1,49 @@
+
+[PYTHON_USAGE_STATUS]
+
+CRITICAL ERROR! INVALID PYTHON SYNTAX/USAGE OR MISSING FILE!
+[PYTHON_USAGE_STATUS=FAIL]
+
+[GITHUB_USAGE_STATUS]
+[GITHUB_USAGE_STATUS=PASS]
+
+[TEST_CASES_STATUS]
+TEST CASE FAILED
+input:
+7
+7
+9
+-1
+
+expected output:
+779
+your output:
+CRITICAL ERROR!
+TEST CASE FAILED
+input:
+12
+4
+6
+8
+-3
+
+expected output:
+12468
+your output:
+CRITICAL ERROR!
+TEST CASE FAILED
+input:
+5
+1
+8
+4
+3
+-9
+
+expected output:
+51843
+your output:
+CRITICAL ERROR!
+found 3 issues.
+[TEST_CASES_STATUS=FAIL]
+

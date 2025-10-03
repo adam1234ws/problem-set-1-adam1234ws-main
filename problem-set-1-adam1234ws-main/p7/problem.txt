@@ -1,0 +1,8 @@
+Write a program that reads in a temperature value and a unit letter.
+If the unit letter is f or F then the value must be converted to celcius and printed as value C.
+If the unit letter is c or C then the value must be converted to fahrenheit and printed as value F.
+
+Input:
+Read temperature value and the unit letter.
+Output:
+Print converted value (round down to 1 decimal place), followed by a C or an F. Use a single space between the value and unit letter.

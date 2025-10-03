@@ -1,0 +1,20 @@
+PROBLEM SET INSTRUCTIONS LA 2025
+
+1- Use command line, Visual Studio Code, or GitHub Desktop to clone the repository.
+  - Do NOT use the GitHub web interface.
+
+2- Each folder contains one problem:
+  2.1- Read instructions.txt carefully.
+    - It may ask you to create specific files and folders.
+      - Always use the exact filenames/strings requested, pay attention to capitalization.
+      - Example: if it says main.py, then it must be main.py — not Main.py, MAIN.py, or mymain.py.
+    - Do not use restricted tools/methods mentioned in the constraints.
+  2.2- Read problem.txt and examples.txt:
+    - Study the input/output examples provided.
+    - Create and test additional cases, especially edge cases.
+    - Pay close attention to restrictions and constraints (found in instructions.txt).
+    - You must follow the same input/output content/format/style (nothing more nothing less)
+
+3- No partial credits. Your program must pass all the tests.
+
+4- You may submit an unlimited number of times until the due date.

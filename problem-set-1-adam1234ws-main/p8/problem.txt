@@ -1,0 +1,11 @@
+Write a program that prints out the letter grade given the grade average.
+90 and above ===> A
+80 and above ===> B
+70 and above ===> C
+60 and above ===> D
+below 60     ===> F
+
+Input:
+Grade average (0 to 100)
+Output:
+Print single letter grade.

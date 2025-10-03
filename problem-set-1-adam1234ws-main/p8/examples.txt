@@ -1,0 +1,16 @@
+Examples:
+
+input
+92.0
+output
+A
+
+input
+89.99
+output
+B
+
+input
+60
+output
+D

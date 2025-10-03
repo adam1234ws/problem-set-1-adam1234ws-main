@@ -1,0 +1,19 @@
+Examples:
+
+input
+100
+C
+output
+212.0 F
+
+input
+32
+f
+output
+0.0 C
+
+input
+98.6
+F
+output
+37.0 C

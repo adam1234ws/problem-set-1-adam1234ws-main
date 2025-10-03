@@ -1,0 +1,6 @@
+Write a program that computes and prints the sum of integers in the range 1 to N (inclusive) divisible by k.
+
+Input:
+Read N and k from stdin.
+Output:
+Print sum.

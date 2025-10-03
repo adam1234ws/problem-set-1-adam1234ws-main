@@ -1,0 +1,8 @@
+Write a program that prints out the largest integer divisible by k less than the input value X.
+If k is greater than or equal to X then the program should print 0.
+Both k and X are positive integers.
+
+Input:
+X and k.
+Output:
+Print the first integer less than X divisible by k.
